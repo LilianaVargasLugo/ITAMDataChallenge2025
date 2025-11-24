@@ -9,38 +9,39 @@ Este repositorio contiene todo el material utilizado en el Data Challenge, cuyo 
 
 Aquí se incluyen:
 
-- **Bases de datos** descargadas de Inside Airbnb (datos crudos y datos limpios).  
-- **Scripts de código** utilizados para limpieza, análisis estadístico y estimación del modelo hedónico OLS semilogarítmico.  
-- **Gráficas y tablas** generadas para el informe final.  
-- **El documento final en PDF** (máximo 5 cuartillas), conforme a los lineamientos del Data Challenge.
+- **Bases de datos** Proporcionadas por el profesor de Airbnb y de la CDMX y las bases de datos externas que extrajo el equipo.  
+- **Scripts de código** utilizados para limpieza, análisis estadístico y estimación del modelo hedónico weighted OLS logarítmico.  
+- **Gráficos y tablas** generadas para el informe final.  
+- **El documento final en PDF** conforme a los lineamientos del Data Challenge.
 
 La estructura del repositorio es:
 
-DataChallenge-Airbnb-CDMX/
-│
-├── data/
-│ └── clean/ # Datos limpios (airbnb_cdmx_clean.csv)
-│
-├── scripts/
-│ ├── 01_cleaning.R # Limpieza y construcción de variables
-│ ├── 02_analysis.R # Regresiones y tablas
-│ └── 03_graphics.R # Gráficas y mapas
-│
-├── outputs/
-│ ├── figures/ # Figuras generadas para el reporte
-│ └── tables/ # Tablas exportadas
-│
-├── report/
-│ └── DataChallenge_5pager.pdf # Documento final del reto
-│
-└── README.md # Este archivo
+DataChallenge-Airbnb-CDMX
+
+│  \
+├── data  \
+│ └── clean  \
+│ └── airbnb_cdmx_clean.csv  \
+│  \
+├── scripts  \
+│ ├── 01_cleaning.R   \
+│ ├── 02_analysis.R    \
+│ └── 03_graphics.R    \
+│  \
+├── outputs  \
+│ ├── figures  \
+│ └── tables  \
+│  \
+├── report  \
+│ └── DataChallenge_2025.pdf  \
+│  \
+└── README.md
 
 ---
 
 ## 2. Descripción de carpetas
 
 ### **`data/`**
-- `raw/`: bases originales descargadas de Inside Airbnb y bases externas.
 - `clean/`: datos procesados y listos para análisis (por ejemplo `airbnb_cdmx_clean.csv`).
 
 ### **`scripts/`**
@@ -53,40 +54,50 @@ DataChallenge-Airbnb-CDMX/
 - `tables/`: tablas exportadas si corresponde.
 
 ### **`report/`**
-- `DataChallenge_5pager.pdf`: documento final del reto.
+- `DataChallenge_2025.pdf`: documento final del reto.
 
 ---
 
 ## 3. Contribución de cada integrante
 
-**Aldo Muller Quintero**  
-- Construcción de bases limpias  
-- Procesamiento de datos externos y merges  
-- Revisión técnica del OLS  
-
-**Alexis Capdevielle Harrison**  
-- Estimación de modelos econométricos  
-- Elaboración de tablas y coefplots  
-- Construcción del ranking de colonias  
-
-**Liliana Vargas Lugo**  
-- Redacción del informe final (5-pager)  
-- Diseño de la estrategia econométrica (modelo hedónico)  
-- Integración de gráficas y narrativa ejecutiva  
+### **Alexis Capdevielle Harrison**
+- Realizó la **búsqueda de bibliografía** (papers académicos) para fundamentar la estrategia econométrica.  
+- Se encargó de la **estimación de los modelos econométricos**, incluyendo la versión final del modelo hedónico OLS.  
+- Contribuyó al **5-pager**, especialmente en la parte metodológica y de interpretación de resultados.
 
 ---
 
-## 4. Descripción del uso de IA
+### **Liliana Vargas Lugo**
+- Participó en la **búsqueda de bibliografía** para justificar el enfoque empírico.  
+- Realizó la **limpieza completa de la base de datos de Airbnb**, filtrado de anuncios y depuración de variables.  
+- Hizo el **merge con la base geoespacial de la CDMX**, asignando cada listado a su polígono/colonia correspondiente.  
+- Integró la **base externa**, calculó distancias promedio hacia lugares turísticos y generó métricas a nivel colonia.  
+- Hizo el **merge con la base de claves de colonias** para estandarizar identificadores.  
+- Contribuyó al **5-pager**, incluyendo narrativa, estructura y secciones descriptivas.  
+- Creó y ordenó el **repositorio completo** en GitHub.
 
-El equipo utilizó herramientas de IA generativa para:
+---
 
-- **Redacción técnica**, especialmente para estructurar la explicación del modelo hedónico.  
-- **Revisión de sintaxis LaTeX** y estructura del informe en PDF.  
-- **Asistencia para estructura de carpetas y documentación** del repositorio.  
-- **Navegación conceptual del paper de referencia** (*Merino & Muñoz-Rodríguez, 2024*).
+### **Aldo Muller Quintero**
+- Buscó y procesó la **base externa de crimen** a nivel colonia para incorporarla en el modelo.  
+- Estimó el **indicador de ingreso potencial por colonia** usado en el ranking final.  
+- Contribuyó al **5-pager**, principalmente en la interpretación y motivación del indicador de rendimiento.  
+- Generó el **mapa de calor de la ciudad**, mostrando las colonias con mayor potencial.
 
-Ningún análisis, regresión o código fue generado de forma automática:  
-**todas las estimaciones, scripts y decisiones metodológicas fueron realizadas manualmente por el equipo.**
+---
+
+## 4. Uso de herramientas de IA
+
+El equipo utilizó herramientas de IA generativa exclusivamente para:
+
+- Apoyar en la estructura y explicación del modelo hedónico del paper principal.  
+- Revisar la estructura de LaTeX del documento final.  
+- Asistir en la documentación del repositorio y organización narrativa.  
+- Explorar y resumir literatura relevante.
+- Apoyo con el código para validar que el merge de las bases sea correcto
+
+Todos los análisis, datos, modelos, cálculos, gráficos y decisiones metodológicas fueron realizados manualmente por el equipo.
+
 
 ---
 
