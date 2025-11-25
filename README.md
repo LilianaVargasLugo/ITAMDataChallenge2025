@@ -80,11 +80,15 @@ DataChallenge-Airbnb-CDMX
 ---
 
 ### **Aldo Muller Quintero**
-- Buscó y procesó la **base externa de crimen y de metro y metrobus** a nivel colonia para incorporarla en el modelo.  
-- Estimó el **indicador costo de adquisición con m2 promedios de venta y tamaño promedio de propiedades** usado en el ranking final.  
+- Buscó y procesó la **base externa de crimen y de metro y metrobus** a nivel colonia para incorporarla en el modelo.
+- Buscó y procesó la base externa de estaciones de metro y metrobus a nivel colonia para incorporarla en el modelo usando QGIS, e hizo el merge con la base geoespacial de la CDMX, asignando cada listado a su polígono/colonia correspondiente.
+- Procesó la **base externa de precios de m2 promedio** del  artículo "Gentrification and access to housing in Mexico City during 2000 to 2022" a nivel colonia para incorporarla en el modelo y estimar un costo de adquisición e hizo el merge con la base geoespacial de la CDMX, asignando cada listado a su polígono/colonia correspondiente. 
+- Estimó el indicador de número de Airbnbs por colonia. 
 - Contribuyó al **5-pager**, principalmente en la interpretación y motivación del indicador de rendimiento.  
 - Generó los **mapas de calor de la ciudad**, mostrando las colonias con mayor potencial.
-
+### **Victor Zamora**
+- Encontró la **base externa de precios de m2 promedio" del artículo "Gentrification and access to housing in Mexico City during 2000 to 2022" de PNAS. 
+- Encontró un par de artículos académicos para la revisión de literatura.
 ---
 
 ## 4. Uso de herramientas de IA
@@ -108,9 +112,10 @@ López Tamayo, Diego Alberto y Aurora A. Ramírez-Álvarez (2021)
 *Análisis de Precios Hedónicos para AIRBNB en la CDMX*
 Documento de Trabajo, Centro de Estudios Económicos, El Colegio de México.
 Merino, Juan José, y Edwin Muñoz-Rodríguez (2024).  
+
 *Professional Airbnb Hosts in Mexico City: A First Approximation*.  
 Documento de Trabajo, Centro de Estudios Económicos, El Colegio de México.
 
-
+Aguilar-Velázquez, D., Rivera Islas, I., Romero Tecua, G., & Valenzuela-Aguilera, A. (2024). Gentrification and access to housing in Mexico City during 2000 to 2022. Proceedings of the National Academy of Sciences of the United States of America, 121(10), Article e2314455121. https://doi.org/10.1073/pnas.2314455121
 ---
 
