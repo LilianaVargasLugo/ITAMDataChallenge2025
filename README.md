@@ -104,6 +104,9 @@ Todos los análisis, datos, modelos, cálculos, gráficos y decisiones metodoló
 
 ## 5. Referencias
 
+López Tamayo, Diego Alberto y Aurora A. Ramírez-Álvarez (2021)
+*Análisis de Precios Hedónicos para AIRBNB en la CDMX*
+Documento de Trabajo, Centro de Estudios Económicos, El Colegio de México.
 Merino, Juan José, y Edwin Muñoz-Rodríguez (2024).  
 *Professional Airbnb Hosts in Mexico City: A First Approximation*.  
 Documento de Trabajo, Centro de Estudios Económicos, El Colegio de México.
