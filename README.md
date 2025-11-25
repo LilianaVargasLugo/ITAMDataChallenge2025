@@ -61,9 +61,10 @@ DataChallenge-Airbnb-CDMX
 ## 3. Contribución de cada integrante
 
 ### **Alexis Capdevielle Harrison**
-- Realizó la **búsqueda de bibliografía** (papers académicos) para fundamentar la estrategia econométrica.  
+- Realizó la **búsqueda de bibliografía** (papers académicos) para fundamentar la estrategia econométrica.
+- Hizo el planteamiento teórico de los modelos a estimar, tanto a nivel propiedad como a nivel colonia y métricas de rentabilidad.
 - Se encargó de la **estimación de los modelos econométricos**, incluyendo la versión final del modelo hedónico OLS.  
-- Contribuyó al **5-pager**, especialmente en la parte metodológica y de interpretación de resultados.
+- Contribuyó al **5-pager**, especialmente en la introducción, resumen ejecutivo, parte metodológica y de interpretación de resultados.
 
 ---
 
@@ -79,8 +80,8 @@ DataChallenge-Airbnb-CDMX
 ---
 
 ### **Aldo Muller Quintero**
-- Buscó y procesó la **base externa de crimen** a nivel colonia para incorporarla en el modelo.  
-- Estimó el **indicador de ingreso potencial por colonia** usado en el ranking final.  
+- Buscó y procesó la **base externa de crimen y de metro y metrobus** a nivel colonia para incorporarla en el modelo.  
+- Estimó el **indicador costo de adquisición con m2 promedios de venta y tamaño promedio de propiedades** usado en el ranking final.  
 - Contribuyó al **5-pager**, principalmente en la interpretación y motivación del indicador de rendimiento.  
 - Generó los **mapas de calor de la ciudad**, mostrando las colonias con mayor potencial.
 
