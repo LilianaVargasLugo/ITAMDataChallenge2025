@@ -12,7 +12,7 @@ Aquí se incluyen:
 - **Bases de datos** Proporcionadas por el profesor de Airbnb y de la CDMX y las bases de datos externas que extrajo el equipo.  
 - **Scripts de código** utilizados para limpieza, análisis estadístico y estimación de los dos modelos: precios hedónicos por colonia y gop por propiedad.  
 - **Gráficos y tablas** generadas para el informe final.  
-- **El documento final en PDF** conforme a los lineamientos del Data Challenge.
+- **El documento final en PDF** conforme a los lineamientos del Data Challenge. Está compuesto de la siguiente manera: el resumen ejecutivo es la primera hoja, después viene el reporte y aparte incluimos un anexo metodológico en donde detallamos información que creemos que no es tan relevante para un inversionista pero que si aporta en el plano académico.
 
 La estructura del repositorio es:
 
