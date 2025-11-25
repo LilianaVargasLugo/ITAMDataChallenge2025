@@ -10,7 +10,7 @@ Este repositorio contiene todo el material utilizado en el Data Challenge, cuyo 
 Aquí se incluyen:
 
 - **Bases de datos** Proporcionadas por el profesor de Airbnb y de la CDMX y las bases de datos externas que extrajo el equipo.  
-- **Scripts de código** utilizados para limpieza, análisis estadístico y estimación del modelo hedónico weighted OLS logarítmico.  
+- **Scripts de código** utilizados para limpieza, análisis estadístico y estimación de los dos modelos: precios hedónicos por colonia y gop por propiedad.  
 - **Gráficos y tablas** generadas para el informe final.  
 - **El documento final en PDF** conforme a los lineamientos del Data Challenge.
 
