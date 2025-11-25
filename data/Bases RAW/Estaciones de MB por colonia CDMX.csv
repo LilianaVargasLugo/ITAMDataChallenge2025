@@ -1,0 +1,917 @@
+cve_ent,entidad,cve_alc,alc,cve_col,colonia,clasif,SISTEMA,NOMBRE,LINEA,EST,CVE_EOD17,TIPO,ALCALDIAS,AÑO,CVE_EST
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,París,07,,,Servicio temporal,Cuauhtémoc,2023,
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,Reforma,07,,,Servicio temporal,Cuauhtémoc,2023,
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,Hamburgo,07,,,Servicio temporal,Cuauhtémoc,2023,
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,El Ahuehuete,07,,,Servicio temporal,Cuauhtémoc,2023,
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,El Ángel,07,,,Servicio temporal,Cuauhtémoc,2023,
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,La Diana,07,,,Servicio temporal,Cuauhtémoc,2023,
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,Chapultepec,07,,,Servicio temporal,Cuauhtémoc,2023,
+09,Ciudad de México,016,Miguel Hidalgo,016-081,Tacubaya,Colonia,Metrobús,Alameda Tacubaya,07,,,Servicio temporal,Miguel Hidalgo,2023,
+09,Ciudad de México,015,Cuauhtémoc,015-016,Hipodromo Condesa,Colonia,Metrobús,De La Salle,07,,,Servicio temporal,Cuauhtémoc / Miguel Hidalgo,2023,
+09,Ciudad de México,016,Miguel Hidalgo,016-077,San Miguel Chapultepec I Seccion,Colonia,Metrobús,De La Salle,07,,,Servicio temporal,Miguel Hidalgo,2023,
+09,Ciudad de México,015,Cuauhtémoc,015-009,Cuauhtemoc,Colonia,Metrobús,Chapultepec,07,,,Servicio temporal,Cuauhtémoc,2023,
+09,Ciudad de México,015,Cuauhtémoc,015-009,Cuauhtemoc,Colonia,Metrobús,La Diana,07,,,Servicio temporal,Cuauhtémoc,2023,
+09,Ciudad de México,015,Cuauhtémoc,015-009,Cuauhtemoc,Colonia,Metrobús,El Ángel,07,,,Servicio temporal,Cuauhtémoc,2023,
+09,Ciudad de México,015,Cuauhtémoc,015-009,Cuauhtemoc,Colonia,Metrobús,El Ahuehuete,07,,,Servicio temporal,Cuauhtémoc,2023,
+09,Ciudad de México,015,Cuauhtémoc,015-009,Cuauhtemoc,Colonia,Metrobús,Hamburgo,07,,,Servicio temporal,Cuauhtémoc,2023,
+09,Ciudad de México,015,Cuauhtémoc,015-030,Tabacalera,Colonia,Metrobús,Reforma,07,,,Servicio temporal,Cuauhtémoc,2023,
+09,Ciudad de México,015,Cuauhtémoc,015-030,Tabacalera,Colonia,Metrobús,París,07,,,Servicio temporal,Cuauhtémoc,2023,
+09,Ciudad de México,017,Venustiano Carranza,017-025,Arpto Int De La Cd De Mex-Equipamiento,Colonia,Metrobús,Aeropuerto T1,04,41,,,Venustiano Carranza,,MB0441
+09,Ciudad de México,017,Venustiano Carranza,017-025,Arpto Int De La Cd De Mex-Equipamiento,Colonia,Metrobús,Aeropuerto T2,04,42,,,Venustiano Carranza,,MB0442
+09,Ciudad de México,015,Cuauhtémoc,015-005,Buenavista,Colonia,Metrobús,Delegación Cuauhtémoc,04,02,11121,Intermedia,Cuauhtémoc,2012,MB0402
+09,Ciudad de México,015,Cuauhtémoc,015-005,Buenavista,Colonia,Metrobús,Delegación Cuauhtémoc,04,48,11121,Intermedia,Cuauhtémoc,2012,MB0448
+09,Ciudad de México,015,Cuauhtémoc,015-005,Buenavista,Colonia,Metrobús,México Tenochtitlan,04,03,,Intermedia,Cuauhtémoc,,MB0403
+09,Ciudad de México,015,Cuauhtémoc,015-030,Tabacalera,Colonia,Metrobús,México Tenochtitlan,04,49,,Intermedia,Cuauhtémoc,,MB0449
+09,Ciudad de México,015,Cuauhtémoc,015-030,Tabacalera,Colonia,Metrobús,Plaza de la República,04,18,11142,Intermedia,Cuauhtémoc,2012,MB0418
+09,Ciudad de México,015,Cuauhtémoc,015-030,Tabacalera,Colonia,Metrobús,Plaza de la República,04,60,11142,Intermedia,Cuauhtémoc,2012,MB0460
+09,Ciudad de México,015,Cuauhtémoc,015-030,Tabacalera,Colonia,Metrobús,Amajac,04,19,11127,Transbordo,Cuauhtémoc,2012,MB0419
+09,Ciudad de México,015,Cuauhtémoc,015-030,Tabacalera,Colonia,Metrobús,Amajac,04,70,11127,Transbordo,Cuauhtémoc,2012,MB0470
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,Defensoría Pública,04,61,,Intermedia,Cuauhtémoc,,MB0461
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Defensoría Pública,04,20,,Intermedia,Cuauhtémoc,,MB0420
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Vocacional 5,04,21,11152,Intermedia,Cuauhtémoc,2012,MB0421
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Vocacional 5,04,62,11152,Intermedia,Cuauhtémoc,2012,MB0462
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Juárez,04,22,11131,Transbordo,Cuauhtémoc,2012,MB0422
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Juárez,04,63,11131,Transbordo,Cuauhtémoc,2012,MB0463
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Mercados San Juan,04,23,,Intermedia,Cuauhtémoc,,MB0423
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Mercados San Juan,04,64,,Intermedia,Cuauhtémoc,,MB0464
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Eje Central,04,24,,Intermedia,Cuauhtémoc,,MB0424
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Eje Central,04,65,,Intermedia,Cuauhtémoc,,MB0465
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,El Salvador,04,25,11124,Intermedia,Cuauhtémoc,2012,MB0425
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,El Salvador,04,66,11124,Intermedia,Cuauhtémoc,2012,MB0466
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Isabel La Católica,04,26,11130,Intermedia,Cuauhtémoc,2012,MB0426
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Isabel La Católica,04,67,11130,Intermedia,Cuauhtémoc,2012,MB0467
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,20 de Noviembre,04,44,,Intermedia,Cuauhtémoc,,MB0444
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Museo de la Ciudad,04,27,11139,Intermedia,Cuauhtémoc,2012,MB0427
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Pino Suárez,04,28,11141,Intermedia,Cuauhtémoc,2012,MB0428
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Las Cruces,04,30,11134,Intermedia,Cuauhtémoc,2012,MB0430
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,San Pablo,04,46,,Intermedia,Cuauhtémoc,,MB0446
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,La Merced,04,32,,Intermedia,Cuauhtémoc,,MB0432
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Mercado de Sonora Sur,04,47,,Intermedia,Cuauhtémoc,,MB0447
+09,Ciudad de México,017,Venustiano Carranza,017-032,Del Parque,Colonia,Metrobús,Cecilio Robelo,04,34,11119,Intermedia,Venustiano Carranza,2012,MB0434
+09,Ciudad de México,017,Venustiano Carranza,017-032,Del Parque,Colonia,Metrobús,Cecilio Robelo,04,71,11119,Intermedia,Venustiano Carranza,2012,MB0471
+09,Ciudad de México,017,Venustiano Carranza,017-032,Del Parque,Colonia,Metrobús,Ing. Eduardo Molina,04,35,11122,Intermedia,Venustiano Carranza,2012,MB0435
+09,Ciudad de México,017,Venustiano Carranza,017-032,Del Parque,Colonia,Metrobús,Hospital Balbuena,04,36,11129,Intermedia,Venustiano Carranza,2012,MB0436
+09,Ciudad de México,017,Venustiano Carranza,017-041,Jardin Balbuena,Colonia,Metrobús,Moctezuma,04,37,11137,Transbordo,Venustiano Carranza,2012,MB0437
+09,Ciudad de México,017,Venustiano Carranza,017-007,7 De Julio,Colonia,Metrobús,Terminal San Lázaro,04,43,,,Venustiano Carranza,,MB0443
+09,Ciudad de México,017,Venustiano Carranza,017-032,Del Parque,Colonia,Metrobús,Terminal San Lázaro,04,68,,,Venustiano Carranza,,MB0468
+09,Ciudad de México,017,Venustiano Carranza,017-016,Ampliacion Penitenciaria,Colonia,Metrobús,Archivo General de la Nación,04,14,11116,Transbordo,Venustiano Carranza,2012,MB0414
+09,Ciudad de México,017,Venustiano Carranza,017-051,Penitenciaria,Colonia,Metrobús,Archivo General de la Nación,04,59,11116,Transbordo,Venustiano Carranza,2012,MB0459
+09,Ciudad de México,017,Venustiano Carranza,017-016,Ampliacion Penitenciaria,Colonia,Metrobús,Morelos,04,13,11138,Intermedia,Venustiano Carranza,2012,MB0413
+09,Ciudad de México,017,Venustiano Carranza,017-016,Ampliacion Penitenciaria,Colonia,Metrobús,Morelos,04,58,11138,Intermedia,Venustiano Carranza,2012,MB0458
+09,Ciudad de México,017,Venustiano Carranza,017-067,Zona Centro,Colonia,Metrobús,Ferrocarril de Cintura,04,12,11126,Intermedia,Venustiano Carranza,2012,MB0412
+09,Ciudad de México,017,Venustiano Carranza,017-016,Ampliacion Penitenciaria,Colonia,Metrobús,Ferrocarril de Cintura,04,57,11126,Intermedia,Venustiano Carranza,2012,MB0457
+09,Ciudad de México,017,Venustiano Carranza,017-067,Zona Centro,Colonia,Metrobús,Mixcalco,04,11,11136,Intermedia,Cuauhtémoc / Venustiano Carranza,2012,MB0411
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Mixcalco,04,56,11136,Intermedia,Cuauhtémoc / Venustiano Carranza,2012,MB0456
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Teatro del Pueblo,04,10,11149,Intermedia,Cuauhtémoc,2012,MB0410
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Teatro del Pueblo,04,55,11149,Intermedia,Cuauhtémoc,2012,MB0455
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,República de Argentina,04,54,11145,Intermedia,Cuauhtémoc,2012,MB0454
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,República de Argentina,04,09,11145,Intermedia,Cuauhtémoc,2012,MB0409
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,República de Chile,04,08,11146,Intermedia,Cuauhtémoc,2012,MB0408
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,República de Chile,04,69,11146,Intermedia,Cuauhtémoc,2012,MB0469
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Teatro Blanquita,04,07,11148,Intermedia,Cuauhtémoc,2012,MB0407
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Teatro Blanquita,04,53,11148,Intermedia,Cuauhtémoc,2012,MB0453
+09,Ciudad de México,015,Cuauhtémoc,015-014,Guerrero,Colonia,Metrobús,Bellas Artes,04,06,11117,Intermedia,Cuauhtémoc,2012,MB0406
+09,Ciudad de México,015,Cuauhtémoc,015-014,Guerrero,Colonia,Metrobús,Bellas Artes,04,52,11117,Intermedia,Cuauhtémoc,2012,MB0452
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Hidalgo,04,05,11128,Transbordo,Cuauhtémoc,2012,MB0405
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Hidalgo,04,51,11128,Transbordo,Cuauhtémoc,2012,MB0451
+09,Ciudad de México,015,Cuauhtémoc,015-005,Buenavista,Colonia,Metrobús,Museo San Carlos,04,04,11140,Intermedia,Cuauhtémoc,2012,MB0404
+09,Ciudad de México,015,Cuauhtémoc,015-030,Tabacalera,Colonia,Metrobús,Museo San Carlos,04,50,11140,Intermedia,Cuauhtémoc,2012,MB0450
+09,Ciudad de México,015,Cuauhtémoc,015-005,Buenavista,Colonia,Metrobús,Buenavista,04,01,11118,Terminal / Transbordo,Cuauhtémoc,2012,MB0401
+09,Ciudad de México,017,Venustiano Carranza,017-009,Adolfo Lopez Mateos,Colonia,Metrobús,Pantitlán,04,38,,Terminal,Venustiano Carranza,2021,MB0438
+09,Ciudad de México,017,Venustiano Carranza,017-030,Cuchilla Pantitlan,Colonia,Metrobús,Calle 6,04,39,,Intermedia,Venustiano Carranza / Iztacalco,2022,MB0439
+09,Ciudad de México,017,Venustiano Carranza,017-023,Arenal 4a. Seccion,Colonia,Metrobús,Alameda Oriente,04,40,,Terminal,Venustiano Carranza / Estado de México - Nezahualcóyotl,2022,MB0440
+09,Ciudad de México,017,Venustiano Carranza,017-067,Zona Centro,Colonia,Metrobús,Mercado de Sonora,04,33,11135,Intermedia,Venustiano Carranza,2012,MB0433
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Pino Suárez Sur,04,45,,Intermedia,Cuauhtémoc,,MB0445
+09,Ciudad de México,005,Gustavo A. Madero,005-104,Lindavista Sur,Colonia,Metrobús,Dep. 18 de Marzo,01,02,11013,Transbordo,Gustavo A. Madero,2005,MB0102
+09,Ciudad de México,005,Gustavo A. Madero,005-111,Magdalena De Las Salinas,Colonia,Metrobús,Eúzkaro,01,03,11018,Intermedia,Gustavo A. Madero,2005,MB0103
+09,Ciudad de México,005,Gustavo A. Madero,005-038,Capultitlan,Colonia,Metrobús,Potrero,01,04,11038,Intermedia,Gustavo A. Madero,2005,MB0104
+09,Ciudad de México,005,Gustavo A. Madero,005-172,Vallejo Poniente,Colonia,Metrobús,La Raza,01,05,11029,Transbordo,Gustavo A. Madero,2005,MB0105
+09,Ciudad de México,015,Cuauhtémoc,015-028,Santa Maria Insurgentes,Colonia,Metrobús,Circuito,01,06,11008,Transbordo,Cuauhtémoc,2005,MB0106
+09,Ciudad de México,015,Cuauhtémoc,015-027,San Simon Tolnahuac,Colonia,Metrobús,San Simón,01,07,11042,Intermedia,Cuauhtémoc,2005,MB0107
+09,Ciudad de México,015,Cuauhtémoc,015-004,Atlampa,Colonia,Metrobús,Manuel González,01,08,11030,Intermedia,Cuauhtémoc,2005,MB0108
+09,Ciudad de México,015,Cuauhtémoc,015-005,Buenavista,Colonia,Metrobús,Buenavista,01,09,11004,Transbordo,Cuauhtémoc,2005,MB0109
+09,Ciudad de México,015,Cuauhtémoc,015-005,Buenavista,Colonia,Metrobús,El Chopo,01,10,11017,Intermedia,Cuauhtémoc,2005,MB0110
+09,Ciudad de México,015,Cuauhtémoc,015-005,Buenavista,Colonia,Metrobús,Revolución,01,11,11040,Intermedia,Cuauhtémoc,2005,MB0111
+09,Ciudad de México,015,Cuauhtémoc,015-030,Tabacalera,Colonia,Metrobús,Plaza de la República,01,12,11036,Transbordo,Cuauhtémoc,2005,MB0112
+09,Ciudad de México,015,Cuauhtémoc,015-026,San Rafael,Colonia,Metrobús,Reforma,01,13,11039,Transbordo,Cuauhtémoc,2005,MB0113
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,Hamburgo,01,14,11023,Transbordo,Cuauhtémoc,2005,MB0114
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,Insurgentes,01,15,11022,Terminal,Cuauhtémoc,2005,MB0115
+09,Ciudad de México,015,Cuauhtémoc,015-024,Roma Norte,Colonia,Metrobús,Durango,01,16,11015,Intermedia,Cuauhtémoc,2005,MB0116
+09,Ciudad de México,015,Cuauhtémoc,015-024,Roma Norte,Colonia,Metrobús,Álvaro Obregón,01,17,11002,Intermedia,Cuauhtémoc,2005,MB0117
+09,Ciudad de México,015,Cuauhtémoc,015-024,Roma Norte,Colonia,Metrobús,Sonora,01,18,11044,Intermedia,Cuauhtémoc,2005,MB0118
+09,Ciudad de México,015,Cuauhtémoc,015-025,Roma Sur,Colonia,Metrobús,Campeche,01,19,11005,Intermedia,Cuauhtémoc,2005,MB0119
+09,Ciudad de México,015,Cuauhtémoc,015-025,Roma Sur,Colonia,Metrobús,Chilpancingo,01,20,11007,Intermedia,Cuauhtémoc,2005,MB0120
+09,Ciudad de México,015,Cuauhtémoc,015-025,Roma Sur,Colonia,Metrobús,Nuevo León,01,21,11032,Transbordo,Cuauhtémoc,2005,MB0121
+09,Ciudad de México,014,Benito Juárez,014-014,Del Valle Norte,Colonia,Metrobús,La Piedad,01,22,11028,Transbordo,Benito Juárez,2005,MB0122
+09,Ciudad de México,014,Benito Juárez,014-014,Del Valle Norte,Colonia,Metrobús,Polifórum,01,23,11037,Transbordo,Benito Juárez,2005,MB0123
+09,Ciudad de México,014,Benito Juárez,014-007,Ampliacion Napoles,Colonia,Metrobús,Nápoles,01,24,11031,Transbordo,Benito Juárez,2005,MB0124
+09,Ciudad de México,014,Benito Juárez,014-021,Insurgentes San Borja,Colonia,Metrobús,Colonia del Valle,01,25,11011,Transbordo,Benito Juárez,2005,MB0125
+09,Ciudad de México,014,Benito Juárez,014-021,Insurgentes San Borja,Colonia,Metrobús,Cd. de los Deportes,01,26,11009,Intermedia,Benito Juárez,2005,MB0126
+09,Ciudad de México,014,Benito Juárez,014-049,Tlacoquemecatl,Colonia,Metrobús,Parque Hundido,01,27,11034,Intermedia,Benito Juárez,2005,MB0127
+09,Ciudad de México,014,Benito Juárez,014-049,Tlacoquemecatl,Colonia,Metrobús,Félix Cuevas,01,28,11019,Intermedia,Benito Juárez,2005,MB0128
+09,Ciudad de México,014,Benito Juárez,014-003,Actipan,Colonia,Metrobús,Río Churubusco,01,29,11041,Intermedia,Benito Juárez,2005,MB0129
+09,Ciudad de México,014,Benito Juárez,014-010,Credito Constructor,Colonia,Metrobús,Teatro de los Insurgentes,01,30,11045,Intermedia,Benito Juárez,2005,MB0130
+09,Ciudad de México,010,Álvaro Obregón,010-083,Florida,Colonia,Metrobús,José María Velasco,01,31,11025,Intermedia,Benito Juárez / Álvaro Obregón,2005,MB0131
+09,Ciudad de México,010,Álvaro Obregón,010-083,Florida,Colonia,Metrobús,Francia,01,32,11020,Intermedia,Álvaro Obregón,2005,MB0132
+09,Ciudad de México,010,Álvaro Obregón,010-083,Florida,Colonia,Metrobús,Olivo,01,33,11033,Intermedia,Álvaro Obregón,2005,MB0133
+09,Ciudad de México,010,Álvaro Obregón,010-079,Ex-Hacienda De Guadalupe Chimalistac,Colonia,Metrobús,Altavista,01,34,11001,Intermedia,Álvaro Obregón,2005,MB0134
+09,Ciudad de México,010,Álvaro Obregón,010-051,Chimalistac,Colonia,Metrobús,La Bombilla,01,35,11026,Intermedia,Álvaro Obregón,2005,MB0135
+09,Ciudad de México,010,Álvaro Obregón,010-051,Chimalistac,Colonia,Metrobús,Doctor Gálvez,01,36,11014,Terminal,Álvaro Obregón,2005,MB0136
+09,Ciudad de México,003,Coyoacán,003-020,Ciudad Universitaria,Colonia,Metrobús,Cd. Universitaria,01,37,11010,Intermedia,Coyoacán,2008,MB0137
+09,Ciudad de México,003,Coyoacán,003-020,Ciudad Universitaria,Colonia,Metrobús,C.C.U.,01,38,11006,Intermedia,Coyoacán,2008,MB0138
+09,Ciudad de México,003,Coyoacán,003-058,Insurgentes Cuicuilco,Colonia,Metrobús,Perisur,01,39,11035,Intermedia,Coyoacán,2008,MB0139
+09,Ciudad de México,012,Tlalpan,012-095,Peña Pobre,Colonia,Metrobús,Villa Olímpica,01,40,11046,Intermedia,Tlalpan,2008,MB0140
+09,Ciudad de México,012,Tlalpan,012-137,Tlalpan,Colonia,Metrobús,Corregidora,01,41,11012,Intermedia,Tlalpan,2008,MB0141
+09,Ciudad de México,012,Tlalpan,012-137,Tlalpan,Colonia,Metrobús,Ayuntamiento,01,42,11003,Intermedia,Tlalpan,2008,MB0142
+09,Ciudad de México,012,Tlalpan,012-138,Tlalpan Centro,Colonia,Metrobús,Fuentes Brotantes,01,43,11021,Intermedia,Tlalpan,2008,MB0143
+09,Ciudad de México,012,Tlalpan,012-138,Tlalpan Centro,Colonia,Metrobús,Santa Úrsula,01,44,11043,Intermedia,Tlalpan,2008,MB0144
+09,Ciudad de México,012,Tlalpan,012-138,Tlalpan Centro,Colonia,Metrobús,La Joya,01,45,11027,Intermedia,Tlalpan,2008,MB0145
+09,Ciudad de México,012,Tlalpan,012-058,La Joya,Colonia,Metrobús,El Caminero,01,46,11016,Terminal,Tlalpan,2008,MB0146
+09,Ciudad de México,016,Miguel Hidalgo,016-081,Tacubaya,Colonia,Metrobús,Tacubaya,02,01,11077,Terminal,Miguel Hidalgo,2008,MB0201
+09,Ciudad de México,016,Miguel Hidalgo,016-077,San Miguel Chapultepec I Seccion,Colonia,Metrobús,Parque Lira,02,02,11070,Intermedia,Miguel Hidalgo,2008,MB0202
+09,Ciudad de México,016,Miguel Hidalgo,016-077,San Miguel Chapultepec I Seccion,Colonia,Metrobús,Antonio Maceo,02,03,11050,Intermedia,Miguel Hidalgo,2008,MB0203
+09,Ciudad de México,015,Cuauhtémoc,015-016,Hipodromo Condesa,Colonia,Metrobús,De la Salle,02,04,11057,Intermedia,Cuauhtémoc / Miguel Hidalgo,2008,MB0204
+09,Ciudad de México,015,Cuauhtémoc,015-015,Hipodromo,Colonia,Metrobús,Patriotismo,02,05,11071,Intermedia,Cuauhtémoc / Miguel Hidalgo,2008,MB0205
+09,Ciudad de México,015,Cuauhtémoc,015-015,Hipodromo,Colonia,Metrobús,Escandón,02,06,11061,Intermedia,Cuauhtémoc / Miguel Hidalgo,2008,MB0206
+09,Ciudad de México,015,Cuauhtémoc,015-015,Hipodromo,Colonia,Metrobús,Nuevo León,02,07,11069,Transbordo,Cuauhtémoc / Miguel Hidalgo,2008,MB0207
+09,Ciudad de México,015,Cuauhtémoc,015-025,Roma Sur,Colonia,Metrobús,Viaducto,02,08,11081,Intermedia,Cuauhtémoc / Benito Juárez,2008,MB0208
+09,Ciudad de México,014,Benito Juárez,014-014,Del Valle Norte,Colonia,Metrobús,Amores,02,09,11048,Intermedia,Benito Juárez,2008,MB0209
+09,Ciudad de México,014,Benito Juárez,014-032,Narvarte Poniente,Colonia,Metrobús,Etiopía,02,10,11072,Terminal / Transbordo,Benito Juárez,2008,MB0210
+09,Ciudad de México,014,Benito Juárez,014-031,Narvarte Oriente,Colonia,Metrobús,Doctor Vértiz,02,11,11059,Intermedia,Benito Juárez,2008,MB0211
+09,Ciudad de México,014,Benito Juárez,014-031,Narvarte Oriente,Colonia,Metrobús,Centro SCOP,02,12,11054,Intermedia,Benito Juárez,2008,MB0212
+09,Ciudad de México,014,Benito Juárez,014-004,Alamos,Colonia,Metrobús,Álamos,02,13,11047,Intermedia,Benito Juárez,2008,MB0213
+09,Ciudad de México,014,Benito Juárez,014-004,Alamos,Colonia,Metrobús,Xola,02,14,11082,Intermedia,Benito Juárez,2008,MB0214
+09,Ciudad de México,014,Benito Juárez,014-029,Moderna,Colonia,Metrobús,Las Américas,02,15,11066,Intermedia,Benito Juárez,2008,MB0215
+09,Ciudad de México,006,Iztacalco,006-033,Nueva Santa Anita,Colonia,Metrobús,Andrés Molina Enríquez,02,16,11049,Intermedia,Iztacalco,2008,MB0216
+09,Ciudad de México,006,Iztacalco,006-033,Nueva Santa Anita,Colonia,Metrobús,La Viga,02,17,11065,Intermedia,Iztacalco,2008,MB0217
+09,Ciudad de México,006,Iztacalco,006-005,Barrio Los Reyes,Pueblos y Barrios Originarios,Metrobús,Coyuya,02,18,11056,Intermedia,Iztacalco,2008,MB0218
+09,Ciudad de México,006,Iztacalco,006-023,Granjas Mexico,Colonia,Metrobús,Metro Coyuya,02,19,,Transbordo,Iztacalco,2008,MB0219
+09,Ciudad de México,006,Iztacalco,006-023,Granjas Mexico,Colonia,Metrobús,Canela,02,20,11052,Intermedia,Iztacalco,2008,MB0220
+09,Ciudad de México,006,Iztacalco,006-020,Gabriel Ramos Millan Secc Tlacotal,Colonia,Metrobús,Tlacotal,02,21,11079,Intermedia,Iztacalco,2008,MB0221
+09,Ciudad de México,006,Iztacalco,006-023,Granjas Mexico,Colonia,Metrobús,Goma,02,22,11063,Intermedia,Iztacalco,2008,MB0222
+09,Ciudad de México,006,Iztacalco,006-021,Gabriel Ramos Millan Seccion Bramadero,Colonia,Metrobús,Iztacalco,02,23,11064,Intermedia,Iztacalco,2008,MB0223
+09,Ciudad de México,006,Iztacalco,006-023,Granjas Mexico,Colonia,Metrobús,UPIICSA,02,24,11080,Intermedia,Iztacalco,2008,MB0224
+09,Ciudad de México,006,Iztacalco,006-016,El Rodeo,Colonia,Metrobús,El Rodeo,02,25,11060,Intermedia,Iztacalco,2008,MB0225
+09,Ciudad de México,007,Iztapalapa,007-148,Real Del Moral,Colonia,Metrobús,Río Tecolutla,02,26,11075,Intermedia,Iztapalapa,2008,MB0226
+09,Ciudad de México,007,Iztapalapa,007-055,Dr Alfonso Ortiz Tirado,Colonia,Metrobús,Río Mayo,02,27,11074,Intermedia,Iztapalapa,2008,MB0227
+09,Ciudad de México,007,Iztapalapa,007-055,Dr Alfonso Ortiz Tirado,Colonia,Metrobús,Rojo Gómez,02,28,11076,Intermedia,Iztapalapa,2008,MB0228
+09,Ciudad de México,006,Iztacalco,006-001,Agricola Oriental,Colonia,Metrobús,Río Frío,02,29,11073,Intermedia,Iztacalco / Iztapalapa,2008,MB0229
+09,Ciudad de México,007,Iztapalapa,007-051,Cuchilla Del Moral,Colonia,Metrobús,Del Moral,02,30,11058,Intermedia,Iztapalapa,2008,MB0230
+09,Ciudad de México,006,Iztacalco,006-001,Agricola Oriental,Colonia,Metrobús,Leyes de Reforma,02,31,11067,Intermedia,Iztacalco / Iztapalapa,2008,MB0231
+09,Ciudad de México,007,Iztapalapa,007-045,Chinampac De Juarez,Colonia,Metrobús,CCH Oriente,02,32,11053,Intermedia,Iztacalco / Iztapalapa,2008,MB0232
+09,Ciudad de México,007,Iztapalapa,007-189,Unidad Ejercito Constitucionalista,Colonia,Metrobús,Const. de Apatzingán,02,33,11055,Intermedia,Iztacalco / Iztapalapa,2008,MB0233
+09,Ciudad de México,007,Iztapalapa,007-188,Tepalcates,Colonia,Metrobús,Canal de San Juan,02,34,11051,Intermedia,Iztapalapa,2008,MB0234
+09,Ciudad de México,007,Iztapalapa,007-188,Tepalcates,Colonia,Metrobús,Gral. Antonio de León,02,35,11062,Intermedia,Iztapalapa,2008,MB0235
+09,Ciudad de México,007,Iztapalapa,007-188,Tepalcates,Colonia,Metrobús,Nicolás Bravo,02,36,11068,Intermedia,Iztapalapa,2008,MB0236
+09,Ciudad de México,007,Iztapalapa,007-189,Unidad Ejercito Constitucionalista,Colonia,Metrobús,Tepalcates,02,37,11078,Terminal,Iztapalapa,2008,MB0237
+09,Ciudad de México,005,Gustavo A. Madero,005-140,San Jose De La Escalera,Colonia,Metrobús,Tenayuca,03,01,11112,Terminal,Gustavo A. Madero,2011,MB0301
+09,Ciudad de México,005,Gustavo A. Madero,005-155,Santa Rosa,Colonia,Metrobús,S. J. de la Escalera,03,02,11111,Intermedia,Gustavo A. Madero,2011,MB0302
+09,Ciudad de México,005,Gustavo A. Madero,005-019,Ampliacion Progreso Nacional,Colonia,Metrobús,Progreso Nacional,03,03,11109,Intermedia,Gustavo A. Madero,2011,MB0303
+09,Ciudad de México,005,Gustavo A. Madero,005-019,Ampliacion Progreso Nacional,Colonia,Metrobús,Tres Anegas,03,04,11115,Intermedia,Gustavo A. Madero,2011,MB0304
+09,Ciudad de México,005,Gustavo A. Madero,005-119,Nueva Industrial Vallejo,Colonia,Metrobús,Júpiter,03,05,11098,Intermedia,Gustavo A. Madero / Estado de México - Tlalnepantla,2011,MB0305
+09,Ciudad de México,005,Gustavo A. Madero,005-119,Nueva Industrial Vallejo,Colonia,Metrobús,La Patera,03,06,11099,Intermedia,Gustavo A. Madero / Estado de México - Tlalnepantla,2011,MB0306
+09,Ciudad de México,005,Gustavo A. Madero,005-121,Nueva Vallejo,Colonia,Metrobús,Poniente 146,03,07,11108,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,MB0307
+09,Ciudad de México,005,Gustavo A. Madero,005-121,Nueva Vallejo,Colonia,Metrobús,Montevideo,03,08,11103,Transbordo,Gustavo A. Madero / Azcapotzalco,2011,MB0308
+09,Ciudad de México,005,Gustavo A. Madero,005-121,Nueva Vallejo,Colonia,Metrobús,Poniente 134,03,09,11107,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,MB0309
+09,Ciudad de México,005,Gustavo A. Madero,005-121,Nueva Vallejo,Colonia,Metrobús,Poniente 128,03,10,11106,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,MB0310
+09,Ciudad de México,005,Gustavo A. Madero,005-121,Nueva Vallejo,Colonia,Metrobús,M. de las Salinas,03,11,11101,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,MB0311
+09,Ciudad de México,005,Gustavo A. Madero,005-111,Magdalena De Las Salinas,Colonia,Metrobús,Coltongo,03,12,11087,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,MB0312
+09,Ciudad de México,005,Gustavo A. Madero,005-083,Guadalupe Victoria,Colonia,Metrobús,Cuitláhuac,03,13,11089,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,MB0313
+09,Ciudad de México,005,Gustavo A. Madero,005-085,Heroe De Nacozari,Colonia,Metrobús,Héroe de Nacozari,03,14,11092,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,MB0314
+09,Ciudad de México,005,Gustavo A. Madero,005-172,Vallejo Poniente,Colonia,Metrobús,Hospital La Raza,03,15,11095,Intermedia,Gustavo A. Madero / Azcapotzalco,2011,MB0315
+09,Ciudad de México,005,Gustavo A. Madero,005-172,Vallejo Poniente,Colonia,Metrobús,La Raza,03,16,11100,Terminal / Transbordo,Gustavo A. Madero,2011,MB0316
+09,Ciudad de México,015,Cuauhtémoc,015-028,Santa Maria Insurgentes,Colonia,Metrobús,Circuito,03,17,11086,Transbordo,Cuauhtémoc,2011,MB0317
+09,Ciudad de México,015,Cuauhtémoc,015-027,San Simon Tolnahuac,Colonia,Metrobús,Tolnahuác,03,18,11114,Intermedia,Cuauhtémoc,2011,MB0318
+09,Ciudad de México,015,Cuauhtémoc,015-020,Nonoalco Tlatelolco,Colonia,Metrobús,Tlatelolco,03,19,11113,Intermedia,Cuauhtémoc,2011,MB0319
+09,Ciudad de México,015,Cuauhtémoc,015-014,Guerrero,Colonia,Metrobús,R. Flores Magón,03,20,11110,Intermedia,Cuauhtémoc,2011,MB0320
+09,Ciudad de México,015,Cuauhtémoc,015-014,Guerrero,Colonia,Metrobús,Guerrero,03,21,11091,Intermedia,Cuauhtémoc,2011,MB0321
+09,Ciudad de México,015,Cuauhtémoc,015-005,Buenavista,Colonia,Metrobús,Buenavista III,03,22,11084,Terminal,Cuauhtémoc,2011,MB0322
+09,Ciudad de México,015,Cuauhtémoc,015-014,Guerrero,Colonia,Metrobús,Mina,03,23,11102,Intermedia,Cuauhtémoc,2011,MB0323
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Hidalgo,03,24,11093,Transbordo,Cuauhtémoc,2011,MB0324
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Juárez,03,25,11097,Transbordo,Cuauhtémoc,2011,MB0325
+09,Ciudad de México,015,Cuauhtémoc,015-007,Centro,Colonia,Metrobús,Balderas,03,26,11083,Terminal,Cuauhtémoc,2011,MB0326
+09,Ciudad de México,015,Cuauhtémoc,015-010,Doctores,Colonia,Metrobús,Cuauhtémoc,03,27,11088,Intermedia,Cuauhtémoc,2011,MB0327
+09,Ciudad de México,015,Cuauhtémoc,015-010,Doctores,Colonia,Metrobús,Jardín Pushkin,03,28,11096,Intermedia,Cuauhtémoc,2011,MB0328
+09,Ciudad de México,015,Cuauhtémoc,015-010,Doctores,Colonia,Metrobús,Hospital General,03,29,11094,Intermedia,Cuauhtémoc,2011,MB0329
+09,Ciudad de México,015,Cuauhtémoc,015-010,Doctores,Colonia,Metrobús,Doctor Márquez,03,30,11090,Intermedia,Cuauhtémoc,2011,MB0330
+09,Ciudad de México,015,Cuauhtémoc,015-010,Doctores,Colonia,Metrobús,Centro Médico,03,31,11085,Intermedia,Cuauhtémoc,2011,MB0331
+09,Ciudad de México,014,Benito Juárez,014-032,Narvarte Poniente,Colonia,Metrobús,Obrero Mundial,03,32,11104,Intermedia,Benito Juárez,2011,MB0332
+09,Ciudad de México,014,Benito Juárez,014-032,Narvarte Poniente,Colonia,Metrobús,Etiopía,03,33,11105,Transbordo,Benito Juárez,2011,MB0333
+09,Ciudad de México,014,Benito Juárez,014-032,Narvarte Poniente,Colonia,Metrobús,Luz Saviñón,03,34,,Intermedia,Benito Juárez,2021,MB0334
+09,Ciudad de México,014,Benito Juárez,014-032,Narvarte Poniente,Colonia,Metrobús,Eugenia,03,35,,Intermedia,Benito Juárez,2021,MB0335
+09,Ciudad de México,014,Benito Juárez,014-032,Narvarte Poniente,Colonia,Metrobús,División del Norte,03,36,,Intermedia,Benito Juárez,2021,MB0336
+09,Ciudad de México,014,Benito Juárez,014-024,Letran Valle,Colonia,Metrobús,Miguel Laurent,03,37,,Intermedia,Benito Juárez,2021,MB0337
+09,Ciudad de México,014,Benito Juárez,014-047,Santa Cruz Atoyac,Colonia,Metrobús,Pueblo Sta. Cruz Atoyac,03,38,,Terminal,Benito Juárez,2021,MB0338
+09,Ciudad de México,005,Gustavo A. Madero,005-091,Juan Gonzalez Romero,Colonia,Metrobús,Río de Los Remedios,05,01,11163,Terminal,Gustavo A. Madero / Estado de México - Ecatepec,2013,MB0501
+09,Ciudad de México,005,Gustavo A. Madero,005-056,Del Obrero,Colonia,Metrobús,314 M. New's Divine,05,02,11153,Intermedia,Gustavo A. Madero,2013,MB0502
+09,Ciudad de México,005,Gustavo A. Madero,005-118,Nueva Atzacoalco,Colonia,Metrobús,5 de Mayo,05,03,11154,Intermedia,Gustavo A. Madero,2013,MB0503
+09,Ciudad de México,005,Gustavo A. Madero,005-173,Vasco De Quiroga,Colonia,Metrobús,Vasco de Quiroga,05,04,11169,Intermedia,Gustavo A. Madero,2013,MB0504
+09,Ciudad de México,005,Gustavo A. Madero,005-059,El Coyol,Colonia,Metrobús,El Coyol,05,05,11158,Intermedia,Gustavo A. Madero,2013,MB0505
+09,Ciudad de México,005,Gustavo A. Madero,005-052,D M Nacional,Colonia,Metrobús,Preparatoria 3,05,06,11161,Intermedia,Gustavo A. Madero,2013,MB0506
+09,Ciudad de México,005,Gustavo A. Madero,005-047,Constitucion De La Republica,Colonia,Metrobús,San Juan de Aragón,05,07,11166,Transbordo,Gustavo A. Madero,2013,MB0507
+09,Ciudad de México,005,Gustavo A. Madero,005-052,D M Nacional,Colonia,Metrobús,Río de Guadalupe,05,08,11164,Intermedia,Gustavo A. Madero,2013,MB0508
+09,Ciudad de México,005,Gustavo A. Madero,005-151,San Pedro El Chico,Colonia,Metrobús,Talismán,05,09,11168,Intermedia,Gustavo A. Madero,2013,MB0509
+09,Ciudad de México,005,Gustavo A. Madero,005-022,Aragon Inguaran,Colonia,Metrobús,Victoria,05,10,11170,Intermedia,Gustavo A. Madero,2013,MB0510
+09,Ciudad de México,005,Gustavo A. Madero,005-017,Ampliacion Martires De Rio Blanco,Colonia,Metrobús,Oriente 101,05,11,11160,Intermedia,Gustavo A. Madero,2013,MB0511
+09,Ciudad de México,005,Gustavo A. Madero,005-096,La Joya,Colonia,Metrobús,Río Santa Coleta,05,12,11165,Intermedia,Gustavo A. Madero,2013,MB0512
+09,Ciudad de México,005,Gustavo A. Madero,005-096,La Joya,Colonia,Metrobús,Río Consulado,05,13,11162,Intermedia,Gustavo A. Madero,2013,MB0513
+09,Ciudad de México,017,Venustiano Carranza,017-006,5to Tramo 20 De Noviembre,Colonia,Metrobús,Canal del Norte,05,14,11156,Intermedia,Venustiano Carranza,2013,MB0514
+09,Ciudad de México,017,Venustiano Carranza,017-012,Ampliacion 20 De Noviembre,Colonia,Metrobús,Deportivo E. Molina,05,15,11157,Intermedia,Venustiano Carranza,2013,MB0515
+09,Ciudad de México,017,Venustiano Carranza,017-012,Ampliacion 20 De Noviembre,Colonia,Metrobús,Mercado Morelos,05,16,11159,Intermedia,Venustiano Carranza,2013,MB0516
+09,Ciudad de México,017,Venustiano Carranza,017-007,7 De Julio,Colonia,Metrobús,San Lázaro,05,18,11167,Terminal / Transbordo,Venustiano Carranza,2013,MB0518
+09,Ciudad de México,017,Venustiano Carranza,017-041,Jardin Balbuena,Colonia,Metrobús,Moctezuma,05,19,,Transbordo,Venustiano Carranza,2020,MB0519
+09,Ciudad de México,017,Venustiano Carranza,017-041,Jardin Balbuena,Colonia,Metrobús,Venustiano Carranza,05,20,,Intermedia,Venustiano Carranza,2020,MB0520
+09,Ciudad de México,017,Venustiano Carranza,017-041,Jardin Balbuena,Colonia,Metrobús,Av. del Taller,05,21,,Intermedia,Venustiano Carranza,2020,MB0521
+09,Ciudad de México,017,Venustiano Carranza,017-043,Magdalena Mixiuhca,Colonia,Metrobús,Mixiuhca,05,22,,Intermedia,Venustiano Carranza,2020,MB0522
+09,Ciudad de México,006,Iztacalco,006-023,Granjas Mexico,Colonia,Metrobús,Hospital Gral. Troncoso,05,23,,Intermedia,Venustiano Carranza / Iztacalco,2020,MB0523
+09,Ciudad de México,006,Iztacalco,006-023,Granjas Mexico,Colonia,Metrobús,Metro Coyuya,05,24,,Transbordo,Iztacalco,2020,MB0524
+09,Ciudad de México,006,Iztacalco,006-027,Juventino Rosas,Colonia,Metrobús,Recreo,05,25,,Intermedia,Iztacalco,2020,MB0525
+09,Ciudad de México,006,Iztacalco,006-027,Juventino Rosas,Colonia,Metrobús,Oriente 116,05,26,,Intermedia,Iztacalco,2020,MB0526
+09,Ciudad de México,006,Iztacalco,006-024,Infonavit Iztacalco,Colonia,Metrobús,Colegio de Bachilleres 3,05,27,,Intermedia,Iztacalco,2020,MB0527
+09,Ciudad de México,006,Iztacalco,006-024,Infonavit Iztacalco,Colonia,Metrobús,Canal Apatlaco,05,28,,Intermedia,Iztacalco,2020,MB0528
+09,Ciudad de México,007,Iztapalapa,007-134,Pueblo Magdalena Atlazolpa,Pueblos y Barrios Originarios,Metrobús,Apatlaco,05,29,,Intermedia,Iztapalapa,2020,MB0529
+09,Ciudad de México,007,Iztapalapa,007-090,Jardines De Churubusco,Colonia,Metrobús,Aculco,05,30,,Intermedia,Iztapalapa,2020,MB0530
+09,Ciudad de México,007,Iztapalapa,007-131,Pueblo Aculco,Pueblos y Barrios Originarios,Metrobús,Churubusco Ote.,05,31,,Intermedia,Iztapalapa,2020,MB0531
+09,Ciudad de México,007,Iztapalapa,007-082,Granjas De San Antonio,Colonia,Metrobús,Escuadrón 201,05,32,,Intermedia,Iztapalapa,2020,MB0532
+09,Ciudad de México,007,Iztapalapa,007-082,Granjas De San Antonio,Colonia,Metrobús,Atanasio G. Sarabia,05,33,,Intermedia,Iztapalapa,2020,MB0533
+09,Ciudad de México,007,Iztapalapa,007-082,Granjas De San Antonio,Colonia,Metrobús,Ermita-Iztapalapa,05,34,,Intermedia,Iztapalapa,2020,MB0534
+09,Ciudad de México,007,Iztapalapa,007-115,Minerva,Colonia,Metrobús,Ganaderos,05,35,,Intermedia,Iztapalapa,2020,MB0535
+09,Ciudad de México,007,Iztapalapa,007-133,Pueblo Los Reyes Culhuacan,Pueblos y Barrios Originarios,Metrobús,Pueblo de los Reyes,05,36,,Intermedia,Iztapalapa,2020,MB0536
+09,Ciudad de México,007,Iztapalapa,007-022,Barrio San Antonio Culhuacan,Pueblos y Barrios Originarios,Metrobús,Barrio San Antonio,05,37,,Intermedia,Iztapalapa,2020,MB0537
+09,Ciudad de México,007,Iztapalapa,007-022,Barrio San Antonio Culhuacan,Pueblos y Barrios Originarios,Metrobús,Calz. Taxqueña,05,38,,Intermedia,Iztapalapa,2020,MB0538
+09,Ciudad de México,003,Coyoacán,003-034,Culhuacan Ctm Seccion V,Colonia,Metrobús,Cafetales,05,39,,Intermedia,Coyoacán,2020,MB0539
+09,Ciudad de México,003,Coyoacán,003-034,Culhuacan Ctm Seccion V,Colonia,Metrobús,ESIME Culhuacán,05,40,,Intermedia,Coyoacán,2020,MB0540
+09,Ciudad de México,003,Coyoacán,003-036,Culhuacan Ctm Seccion Vii,Colonia,Metrobús,Manuela Sáenz,05,41,,Intermedia,Coyoacán,2020,MB0541
+09,Ciudad de México,003,Coyoacán,003-049,Emiliano Zapata Fraccionamiento Popular,Colonia,Metrobús,La Virgen,05,42,,Intermedia,Coyoacán,2020,MB0542
+09,Ciudad de México,003,Coyoacán,003-049,Emiliano Zapata Fraccionamiento Popular,Colonia,Metrobús,Tepetlapa,05,43,,Intermedia,Coyoacán,2020,MB0543
+09,Ciudad de México,003,Coyoacán,003-012,Cafetales,Colonia,Metrobús,Las Bombas,05,44,,Intermedia,Coyoacán,2020,MB0544
+09,Ciudad de México,003,Coyoacán,003-025,Culhuacan C.t.m. Secciën X,Colonia,Metrobús,Vista Hermosa,05,45,,Intermedia,Coyoacán,2021,MB0545
+09,Ciudad de México,003,Coyoacán,003-055,Haciendas De Coyoacan,Colonia,Metrobús,Calz. del Hueso,05,46,,Intermedia,Coyoacán / Tlalpan,2021,MB0546
+09,Ciudad de México,012,Tlalpan,012-133,Tenorios,Colonia,Metrobús,Cañaverales,05,47,,Intermedia,Tlalpan,2021,MB0547
+09,Ciudad de México,013,Xochimilco,013-104,San Lorenzo La Cebada,Colonia,Metrobús,Muyuguarda,05,48,,Intermedia,Xochimilco,2021,MB0548
+09,Ciudad de México,013,Xochimilco,013-104,San Lorenzo La Cebada,Colonia,Metrobús,Circuito Cuemanco,05,49,,Intermedia,Xochimilco,2021,MB0549
+09,Ciudad de México,013,Xochimilco,013-104,San Lorenzo La Cebada,Colonia,Metrobús,DIF Xochimilco,05,50,,Intermedia,Xochimilco,2021,MB0550
+09,Ciudad de México,013,Xochimilco,013-075,Paseos Del Sur,Colonia,Metrobús,Preparatoria 1,05,51,,Terminal,Xochimilco,2021,MB0551
+09,Ciudad de México,002,Azcapotzalco,002-027,El Rosario,Colonia,Metrobús,El Rosario,06,01,11184,Terminal,Azcapotzalco,2016,MB0601
+09,Ciudad de México,002,Azcapotzalco,002-027,El Rosario,Colonia,Metrobús,C. de Bachilleres 1,06,02,11177,Intermedia,Azcapotzalco,2016,MB0602
+09,Ciudad de México,002,Azcapotzalco,002-027,El Rosario,Colonia,Metrobús,De Las Culturas,06,03,11179,Intermedia,Azcapotzalco / Estado de México - Tlalnepantla,2016,MB0603
+09,Ciudad de México,002,Azcapotzalco,002-042,Nueva El Rosario,Colonia,Metrobús,F.F.C.C. Nacionales,06,04,11185,Intermedia,Azcapotzalco,2016,MB0604
+09,Ciudad de México,002,Azcapotzalco,002-042,Nueva El Rosario,Colonia,Metrobús,UAM Azcapotzalco,06,05,11205,Intermedia,Azcapotzalco,2016,MB0605
+09,Ciudad de México,002,Azcapotzalco,002-065,Pueblo Santa Barbara,Pueblos y Barrios Originarios,Metrobús,Tecnoparque,06,06,11204,Intermedia,Azcapotzalco,2016,MB0606
+09,Ciudad de México,002,Azcapotzalco,002-034,Industrial Vallejo,Colonia,Metrobús,Norte 59,06,07,11199,Intermedia,Azcapotzalco,2016,MB0607
+09,Ciudad de México,002,Azcapotzalco,002-034,Industrial Vallejo,Colonia,Metrobús,Norte 45,06,08,11198,Intermedia,Azcapotzalco,2016,MB0608
+09,Ciudad de México,005,Gustavo A. Madero,005-121,Nueva Vallejo,Colonia,Metrobús,Montevideo,06,09,11197,Transbordo,Gustavo A. Madero / Azcapotzalco,2016,MB0609
+09,Ciudad de México,005,Gustavo A. Madero,005-107,Lindavista Vallejo 3a Seccion,Colonia,Metrobús,Lindavista-Vallejo,06,10,11194,Intermedia,Gustavo A. Madero,2016,MB0610
+09,Ciudad de México,005,Gustavo A. Madero,005-138,San Bartolo Atepehuacan,Colonia,Metrobús,Instituto del Petróleo,06,11,11190,Intermedia,Gustavo A. Madero,2016,MB0611
+09,Ciudad de México,005,Gustavo A. Madero,005-138,San Bartolo Atepehuacan,Colonia,Metrobús,San Bartolo,06,12,11202,Intermedia,Gustavo A. Madero,2016,MB0612
+09,Ciudad de México,005,Gustavo A. Madero,005-104,Lindavista Sur,Colonia,Metrobús,I.P.N.,06,13,11191,Terminal,Gustavo A. Madero,2016,MB0613
+09,Ciudad de México,005,Gustavo A. Madero,005-104,Lindavista Sur,Colonia,Metrobús,Riobamba,06,14,11201,Intermedia,Gustavo A. Madero,2016,MB0614
+09,Ciudad de México,005,Gustavo A. Madero,005-161,Tepeyac Insurgentes,Colonia,Metrobús,Dep. 18 de Marzo,06,15,11182,Transbordo,Gustavo A. Madero,2016,MB0615
+09,Ciudad de México,005,Gustavo A. Madero,005-161,Tepeyac Insurgentes,Colonia,Metrobús,La Villa,06,16,11193,Intermedia,Gustavo A. Madero,2016,MB0616
+09,Ciudad de México,005,Gustavo A. Madero,005-161,Tepeyac Insurgentes,Colonia,Metrobús,De Los Misterios,06,17,11180,Transbordo,Gustavo A. Madero,2016,MB0617
+09,Ciudad de México,005,Gustavo A. Madero,005-175,Villa Gustavo A Madero,Colonia,Metrobús,Hospital Infantil La Villa,06,18,11189,Transbordo,Gustavo A. Madero,2016,MB0618
+09,Ciudad de México,005,Gustavo A. Madero,005-175,Villa Gustavo A Madero,Colonia,Metrobús,Gustavo A. Madero,06,19,11181,Transbordo,Gustavo A. Madero,2016,MB0619
+09,Ciudad de México,005,Gustavo A. Madero,005-079,Granjas Modernas,Colonia,Metrobús,Martín Carrera,06,20,11196,Intermedia,Gustavo A. Madero,2016,MB0620
+09,Ciudad de México,005,Gustavo A. Madero,005-047,Constitucion De La Republica,Colonia,Metrobús,Hospital General La Villa,06,21,11188,Intermedia,Gustavo A. Madero,2016,MB0621
+09,Ciudad de México,005,Gustavo A. Madero,005-052,D M Nacional,Colonia,Metrobús,San Juan de Aragón,06,22,11203,Transbordo,Gustavo A. Madero,2016,MB0622
+09,Ciudad de México,005,Gustavo A. Madero,005-052,D M Nacional,Colonia,Metrobús,Gran Canal,06,23,11187,Intermedia,Gustavo A. Madero,2016,MB0623
+09,Ciudad de México,005,Gustavo A. Madero,005-131,Pueblo San Juan De Aragon,Pueblos y Barrios Originarios,Metrobús,Casas Alemán,06,24,11176,Intermedia,Gustavo A. Madero,2016,MB0624
+09,Ciudad de México,005,Gustavo A. Madero,005-131,Pueblo San Juan De Aragon,Pueblos y Barrios Originarios,Metrobús,Pueblo San Juan de Aragón,06,25,11200,Intermedia,Gustavo A. Madero,2016,MB0625
+09,Ciudad de México,005,Gustavo A. Madero,005-131,Pueblo San Juan De Aragon,Pueblos y Barrios Originarios,Metrobús,Loreto Fabela,06,26,11195,Intermedia,Gustavo A. Madero,2016,MB0626
+09,Ciudad de México,005,Gustavo A. Madero,005-065,Ex Ejido San Juan De Aragon Sector 32,Colonia,Metrobús,482,06,27,11174,Intermedia,Gustavo A. Madero,2016,MB0627
+09,Ciudad de México,005,Gustavo A. Madero,005-148,San Juan De Aragon Vi Seccion,Colonia,Metrobús,414,06,28,11171,Intermedia,Gustavo A. Madero,2016,MB0628
+09,Ciudad de México,005,Gustavo A. Madero,005-131,Pueblo San Juan De Aragon,Pueblos y Barrios Originarios,Metrobús,416 Poniente,06,29,11173,Intermedia,Gustavo A. Madero,2016,MB0629
+09,Ciudad de México,005,Gustavo A. Madero,005-148,San Juan De Aragon Vi Seccion,Colonia,Metrobús,416 Oriente,06,30,11172,Intermedia,Gustavo A. Madero,2016,MB0630
+09,Ciudad de México,005,Gustavo A. Madero,005-009,Ampliacion Casas Aleman,Colonia,Metrobús,Deportivo Los Galeana,06,31,11183,Intermedia,Gustavo A. Madero,2016,MB0631
+09,Ciudad de México,005,Gustavo A. Madero,005-149,San Juan De Aragon Vii Seccion,Colonia,Metrobús,Ampliación Providencia,06,32,11175,Intermedia,Gustavo A. Madero,2016,MB0632
+09,Ciudad de México,005,Gustavo A. Madero,005-149,San Juan De Aragon Vii Seccion,Colonia,Metrobús,Volcán de Fuego,06,33,11207,Intermedia,Gustavo A. Madero,2016,MB0633
+09,Ciudad de México,005,Gustavo A. Madero,005-101,La Pradera,Colonia,Metrobús,La Pradera,06,34,11192,Intermedia,Gustavo A. Madero,2016,MB0634
+09,Ciudad de México,005,Gustavo A. Madero,005-126,Pradera 2a Seccion,Colonia,Metrobús,C. de Bachilleres 9,06,35,11178,Intermedia,Gustavo A. Madero,2016,MB0635
+09,Ciudad de México,005,Gustavo A. Madero,005-174,Villa De Aragon,Colonia,Metrobús,Francisco Morazán,06,36,11186,Intermedia,Gustavo A. Madero,2016,MB0636
+09,Ciudad de México,005,Gustavo A. Madero,005-148,San Juan De Aragon Vi Seccion,Colonia,Metrobús,Villa de Aragón,06,37,11206,Terminal,Gustavo A. Madero,2016,MB0637
+09,Ciudad de México,005,Gustavo A. Madero,005-103,Lindavista Norte,Colonia,Metrobús,Indios Verdes,07,01,,Terminal / Transbordo,Gustavo A. Madero,2018,MB0701
+09,Ciudad de México,005,Gustavo A. Madero,005-175,Villa Gustavo A Madero,Colonia,Metrobús,Hospital Infantil La Villa,07,02,,Terminal / Transbordo,Gustavo A. Madero,2018,MB0702
+09,Ciudad de México,005,Gustavo A. Madero,005-175,Villa Gustavo A Madero,Colonia,Metrobús,De Los Misterios,07,03,,Transbordo,Gustavo A. Madero,2018,MB0703
+09,Ciudad de México,005,Gustavo A. Madero,005-175,Villa Gustavo A Madero,Colonia,Metrobús,Gustavo A. Madero,07,04,,Transbordo,Gustavo A. Madero,2018,MB0704
+09,Ciudad de México,005,Gustavo A. Madero,005-161,Tepeyac Insurgentes,Colonia,Metrobús,Garrido,07,05,,Intermedia,Gustavo A. Madero,2018,MB0705
+09,Ciudad de México,005,Gustavo A. Madero,005-089,Industrial,Colonia,Metrobús,Av. Talismán,07,06,,Intermedia,Gustavo A. Madero,2018,MB0706
+09,Ciudad de México,005,Gustavo A. Madero,005-089,Industrial,Colonia,Metrobús,Necaxa,07,07,,Intermedia,Gustavo A. Madero,2018,MB0707
+09,Ciudad de México,005,Gustavo A. Madero,005-089,Industrial,Colonia,Metrobús,Excélsior,07,08,,Intermedia,Gustavo A. Madero,2018,MB0708
+09,Ciudad de México,005,Gustavo A. Madero,005-171,Vallejo,Colonia,Metrobús,Robles Domínguez,07,09,,Intermedia,Gustavo A. Madero,2018,MB0709
+09,Ciudad de México,005,Gustavo A. Madero,005-171,Vallejo,Colonia,Metrobús,Clave,07,10,,Intermedia,Gustavo A. Madero,2018,MB0710
+09,Ciudad de México,005,Gustavo A. Madero,005-171,Vallejo,Colonia,Metrobús,Misterios,07,11,,Intermedia,Gustavo A. Madero / Cuauhtémoc,2018,MB0711
+09,Ciudad de México,015,Cuauhtémoc,015-012,Ex Hipodromo De Peralvillo,Colonia,Metrobús,Mercado Beethoven,07,12,,Intermedia,Cuauhtémoc,2018,MB0712
+09,Ciudad de México,015,Cuauhtémoc,015-020,Nonoalco Tlatelolco,Colonia,Metrobús,Peralvillo,07,13,,Intermedia,Cuauhtémoc,2018,MB0713
+09,Ciudad de México,015,Cuauhtémoc,015-019,Morelos,Colonia,Metrobús,Tres Culturas,07,14,,Intermedia,Cuauhtémoc,2018,MB0714
+09,Ciudad de México,015,Cuauhtémoc,015-019,Morelos,Colonia,Metrobús,Glorieta Cuitláhuac,07,15,,Intermedia,Cuauhtémoc,2018,MB0715
+09,Ciudad de México,015,Cuauhtémoc,015-014,Guerrero,Colonia,Metrobús,Garibaldi M. Lagunilla,07,16,,Intermedia,Cuauhtémoc,2018,MB0716
+09,Ciudad de México,015,Cuauhtémoc,015-014,Guerrero,Colonia,Metrobús,Glorieta Violeta,07,17,,Intermedia,Cuauhtémoc,2018,MB0717
+09,Ciudad de México,015,Cuauhtémoc,015-030,Tabacalera,Colonia,Metrobús,Hidalgo,07,18,,Transbordo,Cuauhtémoc,2018,MB0718
+09,Ciudad de México,015,Cuauhtémoc,015-030,Tabacalera,Colonia,Metrobús,El Caballito,07,19,,Intermedia,Cuauhtémoc,2018,MB0719
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,Amajac,07,20,,Transbordo,Cuauhtémoc,2018,MB0720
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,París,07,21,,Intermedia,Cuauhtémoc,2018,MB0721
+09,Ciudad de México,015,Cuauhtémoc,015-030,Tabacalera,Colonia,Metrobús,Reforma,07,22,,Transbordo,Cuauhtémoc,2018,MB0722
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,Hamburgo,07,23,,Transbordo,Cuauhtémoc,2018,MB0723
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,Ahuehuete,07,24,,Intermedia,Cuauhtémoc,2018,MB0724
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,El Ángel,07,25,,Intermedia,Cuauhtémoc,2018,MB0725
+09,Ciudad de México,015,Cuauhtémoc,015-017,Juarez,Colonia,Metrobús,La Diana,07,26,,Intermedia,Cuauhtémoc,2018,MB0726
+09,Ciudad de México,015,Cuauhtémoc,015-009,Cuauhtemoc,Colonia,Metrobús,Chapultepec,07,27,,Intermedia,Cuauhtémoc,2018,MB0727
+09,Ciudad de México,016,Miguel Hidalgo,016-017,Bosque De Chapultepec I Seccion,Colonia,Metrobús,Gandhi,07,28,,Intermedia,Miguel Hidalgo,2018,MB0728
+09,Ciudad de México,016,Miguel Hidalgo,016-017,Bosque De Chapultepec I Seccion,Colonia,Metrobús,Antropología,07,29,,Intermedia,Miguel Hidalgo,2018,MB0729
+09,Ciudad de México,016,Miguel Hidalgo,016-017,Bosque De Chapultepec I Seccion,Colonia,Metrobús,Auditorio,07,30,,Intermedia,Miguel Hidalgo,2018,MB0730
+09,Ciudad de México,016,Miguel Hidalgo,016-017,Bosque De Chapultepec I Seccion,Colonia,Metrobús,Campo Marte,07,31,,Terminal,Miguel Hidalgo,2018,MB0731
+09,Ciudad de México,005,Gustavo A. Madero,005-134,Residencial Zacatenco,Colonia,Metrobús,Indios Verdes,01,01,,,Gustavo A. Madero,,MB0101
+09,Ciudad de México,015,Cuauhtémoc,015-005,Buenavista,Colonia,Metrobús,Buenavista II,01,47,,Terminal,Cuauhtémoc,,MB0147
+09,Ciudad de México,017,Venustiano Carranza,017-016,Ampliacion Penitenciaria,Colonia,Metrobús,Archivo General,05,17,,,Venustiano Carranza,,MB0517
+09,Ciudad de México,002,Azcapotzalco,002-001,Aguilera,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-002,Aldana,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-003,Ampliacion Cosmopolita,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-004,Ampliacion Del Gas,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-005,Ampliacion Petrolera,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-006,Ampliacion San Pedro Xalpa,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-007,Angel Zimbron,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-008,Arenal,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-009,Barrio Coltongo,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-010,Barrio Huautla De Las Salinas,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-011,Barrio Los Reyes,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-012,Barrio Nextengo,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-013,Barrio San Andres,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-014,Barrio San Bernabe,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-015,Barrio San Marcos,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-016,Barrio San Mateo,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-017,Barrio Santa Apolonia,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-018,Barrio Santa Lucia,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-019,Centro De Azcapotzalco,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-020,Claveria,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-021,Coltongo,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-022,Cosmopolita,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-023,Del Gas,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-024,Del Maestro,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-025,Del Recreo,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-026,El Jaguey,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-028,Estacion Pantaco,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-029,Euzkadi,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-030,Ex-Hacienda El Rosario,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-031,Ferreria,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-032,Ignacio Allende,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-033,Industrial San Antonio,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-035,Jardin Azpeitia,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-036,La Preciosa,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-037,La Raza,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-038,Las Salinas,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-039,Liberacion,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-040,Libertad,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-041,Monte Alto,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-043,Nueva España,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-044,Nueva Santa Maria,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-045,Nuevo Barrio San Rafael,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-046,Obrero Popular,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-047,Pasteros,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-048,Patrimonio Familiar,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-049,Petrolera,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-050,Plenitud,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-051,Porvenir,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-052,Potrero Del Llano,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-053,Prados Del Rosario,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-054,Pro Hogar,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-055,Providencia,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-056,Pueblo San Andres,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-057,Pueblo San Andres De Las Salinas,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-058,Pueblo San Bartolo Cahualtongo,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-059,Pueblo San Francisco Tetecala,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-060,Pueblo San Francisco Xocotitla,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-061,Pueblo San Juan Tlihuaca,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-062,Pueblo San Martin Xochinahuac,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-063,Pueblo San Miguel Amantla,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-064,Pueblo San Pedro Xalpa,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-066,Pueblo Santa Catarina,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-067,Pueblo Santa Cruz Acayucan,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-068,Pueblo Santa Maria Malinalco,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-069,Pueblo Santiago Ahuizotla,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-070,Pueblo Santo Domingo,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-071,Reynosa Tamaulipas,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-072,San Alvaro,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-073,San Antonio,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-074,San Rafael,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-075,San Salvador Xochimanca,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-076,San Sebastian,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-077,Santa Cruz De Las Salinas,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-078,Santa Ines,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-079,Santo Tomas,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-080,Sector Naval,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-081,Sindicato Mexicano De Electricistas,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-082,Tezozomoc,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-083,Tierra Nueva,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-084,Tlatilco,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-085,Trabajadores De Hierro,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-086,Un Hogar Para Cada Trabajador,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-087,Unidad Cuitlahuac,Colonia,,,,,,,,,
+09,Ciudad de México,002,Azcapotzalco,002-088,Victoria De Las Democracias,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-001,Adolfo Ruiz Cortinez,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-002,Ajusco,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-003,Alianza Popular Revolucionaria,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-004,Atlantida,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-005,Avante,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-006,Barrio Del Niño Jesus,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-007,Barrio La Concepcion,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-008,Barrio Oxtopulco Universidad,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-009,Barrio San Lucas,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-010,Barrio Santa Catarina,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-011,Bosques De Tetlameya,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-013,Campestre Churubusco,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-014,Campestre Coyoacan,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-015,Cantil Del Pedregal,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-016,Cantil Del Pedregal,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-017,Carmen Serdan,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-018,Churubusco Country Club,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-019,Ciudad Jardin,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-021,Copilco El Alto,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-022,Copilco El Bajo,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-023,Copilco Universidad,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-024,Cuadrante De San Francisco,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-026,Culhuacan Ctm Canal Nacional,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-027,Culhuacan Ctm Croc,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-028,Culhuacan Ctm Seccion  I,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-029,Culhuacan Ctm Seccion  Ii,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-030,Culhuacan Ctm Seccion Iii,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-031,Culhuacan Ctm Seccion Ix-A,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-032,Culhuacan Ctm Seccion Ix-B,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-033,Culhuacan Ctm Seccion Piloto,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-035,Culhuacan Ctm Seccion Vi,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-037,Culhuacan Ctm Seccion Viii,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-038,Culhuacan Ctm Seccion X-A,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-039,Del Carmen,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-040,Educacion,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-041,El Caracol,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-042,El Centinela,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-043,El Mirador,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-044,El Parque De Coyoacan,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-045,El Reloj,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-046,El Rosario,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-047,El Rosedal,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-048,Emiliano Zapata,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-050,Espartaco,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-051,Ex-Ejido De San Francisco Culhuacan,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-052,Ex Ejido De  Santa Ursula Coapa,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-053,Ex Ejido San Pablo Tepetlapa,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-054,Ex Hacienda Coapa,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-056,Hermosillo,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-057,Huayamilpas,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-059,Jardines De Coyoacan,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-060,Jardines Del Pedregal De San Angel,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-061,Joyas Del Pedregal,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-062,La Otra Banda,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-063,Las Campanas,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-064,Los Cedros,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-065,Los Cipreses,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-066,Los Girasoles,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-067,Los Olivos,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-068,Los Sauces,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-069,Nueva Diaz Ordaz,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-070,Olimpica,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-071,Parque San Andres,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-072,Paseos De Taxqueña,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-073,Pedregal De Carrasco,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-074,Pedregal De Santa Ursula,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-075,Pedregal De Santo Domingo,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-076,Pedregal De Sn Francisco,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-077,Petrolera Taxqueña,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-078,Prado Churubusco,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-079,Prados De Coyoacan,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-080,Prados De Coyoacan,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-081,Presidentes Ejidales 1a Seccion,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-082,Presidentes Ejidales 2a Seccion,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-083,Pueblo De Los Reyes,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-084,Pueblo De Santa Ursula Coapa,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-085,Pueblo La Candelaria,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-086,Pueblo San Pablo Tepetlapa,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-087,Romero De Terreros,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-088,San Diego Churubusco,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-089,San Francisco Culhuacan Barrio De La Magdalena,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-090,San Francisco Culhuacan Barrio De San Francisco,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-091,San Francisco Culhuacan Barrio De San Juan,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-092,San Francisco Culhuacan Barrio De Santa Ana,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-093,San Mateo,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-094,Santa Cecilia,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-095,Viejo Ejido Santa Ursula Coapa,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-096,Villa Coyoacan,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-097,Villa Quietud,Colonia,,,,,,,,,
+09,Ciudad de México,003,Coyoacán,003-098,Xotepingo,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-001,1ro De Mayo,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-002,Abdias Garcia Soto,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-003,Adolfo Lopez Mateos,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-004,Agua Bendita,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-005,Ahuatenco,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-006,Amado Nervo,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-007,Ampliacion El Yaqui,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-008,Ampliacion Memetla,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-009,Bosques De Las Lomas,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-010,Campestre Palo Alto,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-011,Contadero,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-012,Cooperativa Palo Alto,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-013,Cruz Blanca,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-014,Cuajimalpa,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-015,El Ebano,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-016,El Molinito,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-017,El Molino,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-018,El Tianguillo,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-019,El Yaqui,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-020,Granjas Navidad,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-021,Granjas Palo Alto,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-022,Jesus Del Monte,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-023,La Manzanita,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-024,La Pila,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-025,La Venta,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-026,Las Lajas,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-027,Las Maromas,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-028,Las Tinajas,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-029,Locaxco,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-030,Loma Del Padre,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-031,Lomas De Memetla,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-032,Lomas De Sn Pedro,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-033,Lomas De Vista Hermosa,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-034,Manzanastitla,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-035,Memetla,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-036,Pueblo San Lorenzo Acopilco,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-037,Pueblo San Mateo Tlaltenango,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-038,Pueblo San Pablo Chimalpa,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-039,San Jose De Los Cedros,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-040,San Pedro,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-041,Santa Fe Cuajimalpa,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-042,Tepetongo,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-043,Xalpa,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-044,Zacamulpa,Colonia,,,,,,,,,
+09,Ciudad de México,004,Cuajimalpa de Morelos,004-045,Zentlapatl,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-001,15 De Agosto,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-002,25 De Julio,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-003,6 De Junio,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-004,7 De Noviembre,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-005,Acueducto De Guadalupe,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-006,Ahuehuetes,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-007,Ampliacion Arboledas,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-008,Ampliacion Benito Juarez,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-010,Ampliacion Castillo Grande,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-011,Ampliacion Chalma De Guadalupe,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-012,Ampliacion Cocoyotes,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-013,Ampliacion Emiliano Zapata,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-014,Ampliacion Gabriel Hernandez,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-015,Ampliacion Guadalupe Proletaria,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-016,Ampliacion Malacates,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-018,Ampliacion Panamericana,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-020,Ampliacion Providencia,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-021,Ampliacion San Juan De Aragon,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-023,Aragon La Villa,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-024,Arboledas,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-025,Barrio Candelaria Ticoman,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-026,Barrio Guadalupe Ticoman,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-027,Barrio La Laguna Ticoman,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-028,Barrio La Purisima Ticoman,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-029,Barrio San Juan Y Guadalupe Ticoman,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-030,Barrio San Rafael Ticoman,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-031,Belisario Dominguez,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-032,Benito Juarez,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-033,Bondojito,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-034,C T M Aragon,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-035,C T M Atzacoalco,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-036,C T M El Risco,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-037,Campestre Aragon,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-039,Castillo Chico,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-040,Castillo Grande,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-041,Cerro Del Guerrero,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-042,Cerro Los Gachupines,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-043,Chalma De Guadalupe,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-044,Churubusco Tepeyac,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-045,Cocoyotes,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-046,Compositores Mexicanos,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-048,Cuautepec Barrio Alto,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-049,Cuautepec De Madero,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-050,Cuchilla Del Tesoro,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-051,Cuchilla La Joya,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-053,Defensores De La Republica,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-054,Del Bosque,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-055,Del Carmen,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-057,Dinamita,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-058,El Arbolillo,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-060,El Olivo,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-061,El Tepetatal,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-062,Emiliano Zapata,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-063,Estanzuela,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-064,Estrella,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-066,Ex Ejido San Juan De Aragon Sector 33,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-067,Ex Escuela De Tiro,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-068,Faja De Oro,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-069,Fernando Casas Aleman,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-070,Ferrocarrilera,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-071,Forestal,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-072,Forestal I,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-073,Forestal Ii,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-074,Gabriel Hernandez,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-075,General Felipe Berriozabal,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-076,Gertrudis Sanchez 1a Seccion,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-077,Gertrudis Sanchez 2a Seccion,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-078,Gertrudis Sanchez 3a Seccion,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-080,Guadalupe Insurgentes,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-081,Guadalupe Proletaria,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-082,Guadalupe Tepeyac,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-084,Guadalupe Victoria Cuautepec,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-086,Heroes De Cerro Prieto,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-087,Heroes De Chapultepec,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-088,Indeco,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-090,Jorge Negrete,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-092,Juventino Rosas,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-093,La Casilda,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-094,La Cruz,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-095,La Esmeralda,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-097,La Joyita,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-098,La Lengueta,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-099,La Malinche,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-100,La Pastora,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-102,Li Legislatura,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-105,Lindavista Vallejo 1a Seccion,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-106,Lindavista Vallejo 2a Seccion,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-108,Loma La Palma,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-109,Lomas De Cuautepec,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-110,Luis Donaldo Colosio,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-112,Malacates,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-113,Martin Carrera,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-114,Martires De Rio Blanco,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-115,Maximino Avila Camacho,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-116,Montevideo,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-117,Narciso Bassols,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-120,Nueva Tenochtitlan,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-122,Palmatitla,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-123,Panamericana,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-124,Parque Metropolitano,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-125,Planetario Lindavista,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-127,Prados De Cuautepec,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-128,Progreso Nacional,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-129,Providencia,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-130,Pueblo De Santiago Atzacoalco,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-132,Residencial Acueducto De Guadalupe,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-133,Residencial La Escalera,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-135,Rosas Del Tepeyac,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-136,Salvador Diaz Miron,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-137,San Antonio,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-139,San Felipe De Jesus,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-141,San Jose Ticoman,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-142,San Juan De Aragon,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-143,San Juan De Aragon I Seccion,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-144,San Juan De Aragon Ii Seccion,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-145,San Juan De Aragon Iii Seccion,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-146,San Juan De Aragon Iv Seccion,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-147,San Juan De Aragon V Seccion,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-150,San Miguel,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-152,San Pedro Zacatenco,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-153,Santa Isabel Tola,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-154,Santa Maria Ticoman,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-156,Santiago Atepetlac,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-157,Siete Maravillas,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-158,Solidaridad Nacional,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-159,Tablas De San Agustin,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-160,Tepetates,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-162,Tlacaelel,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-163,Tlacamaca,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-164,Tlalpexco,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-165,Torres Lindavista,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-166,Tres Estrellas,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-167,Triunfo De La Republica,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-168,U.habit. Cuchilla Del Tesoro,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-169,Valle De Madero,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-170,Valle Del Tepeyac,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-176,Villa Hermosa,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-177,Vista Hermosa,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-178,Zona Escolar,Colonia,,,,,,,,,
+09,Ciudad de México,005,Gustavo A. Madero,005-179,Zona Escolar Oriente,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-002,Agricola Pantitlan,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-003,Ampliacion Gabriel Ramos Millan,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-004,Barrio La Asuncion,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-006,Barrio San Francisco Xicaltongo,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-007,Barrio San Miguel,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-008,Barrio San Pedro,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-009,Barrio Santa Cruz,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-010,Barrio Santiago Norte,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-011,Barrio Santiago Sur,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-012,Barrio Zapotla,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-013,Campamento 2 De Octubre,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-014,Carlos Zapata Vela,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-015,Cuchilla Agricola Oriental,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-017,Ex-Ejido La Magdalena Mixhuca,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-018,Fraccionamiento Coyuya,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-019,Gabriel Ramos Millan,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-022,Gabriel Ramos Millan Seccion Cuchilla,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-025,Inpi Picos,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-026,Jardines Tecma,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-028,La Cruz,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-029,Los Picos De Iztacalco Seccion 1 A,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-030,Los Picos De Iztacalco Seccion 1 B,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-031,Los Picos De Iztacalco Seccion 2 A,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-032,Militar Marte,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-034,Reforma Iztaccihuatl Norte,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-035,Reforma Iztaccihuatl Sur,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-036,Santa Anita,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-037,Tlazintla,Colonia,,,,,,,,,
+09,Ciudad de México,006,Iztacalco,006-038,Viaducto Piedad,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-001,12 De Diciembre,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-002,Albarrada,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-003,Alvaro Obregon,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-004,Ampliacion Bellavista,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-005,Ampliacion El Santuario,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-006,Ampliacion El Triunfo,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-007,Ampliacion Emiliano Zapata,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-008,Ampliacion Los Reyes,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-009,Ampliacion Paraje San Juan,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-010,Ampliacion Ricardo Flores Magon,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-011,Ampliacion San Miguel,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-012,Ampliacion Santa Maria Aztahuacan,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-013,Ampliacion Sinatel,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-014,Ampliacion Veracruzana,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-015,Año De Juarez,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-016,Apatlaco,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-017,Banjidal,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-018,Barranca De Guadalupe,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-019,Barrio Guadalupe,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-020,Barrio La Asuncion,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-021,Barrio San Antonio,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-023,Barrio San Ignacio,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-024,Barrio San Jose,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-025,Barrio San Lorenzo,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-026,Barrio San Lucas,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-027,Barrio San Miguel,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-028,Barrio San Pablo,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-029,Barrio San Pedro,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-030,Barrio San Simon Culhuacan,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-031,Barrio Santa Barbara,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-032,Barrio Tula,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-033,Bellavista,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-034,Benito Juarez,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-035,Buenavista,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-036,Cacama,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-037,Campestre Potrero,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-038,Cananea,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-039,Carlos Hank Gonzalez,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-040,Carlos Jonguitud Barrios,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-041,Casa Blanca,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-042,Celoalliotli,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-043,Central De Abasto,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-044,Cerro De La Estrella,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-046,Citlalli,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-047,Colonial Iztapalapa,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-048,Consejo Agrarista Mexicano,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-049,Constitucion De 1917,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-050,Coop Allapetlalli,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-052,Degollado,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-053,Degollado-Mexicatlalli,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-054,Desarrollo Urbano Quetzalcoatl,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-056,Ejercito De Agua Prieta,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-057,Ejercito De Oriente,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-058,Ejercito De Oriente Zona Peñon,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-059,El Eden,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-060,El Manto,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-061,El Mirador,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-062,El Molino,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-063,El Molino Tezonco,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-064,El Paraiso,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-065,El Prado,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-066,El Retoño,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-067,El Rodeo,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-068,El Rosario,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-069,El Santuario,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-070,El Sifon,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-071,El Triangulo,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-072,El Triunfo,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-073,El Vergel,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-074,Ermita Zaragoza,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-075,Escuadron 201,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-076,Estado De Veracruz,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-077,Estrella Culhuacan,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-078,Estrella Del Sur,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-079,Eva Samano De Lopez Mateos,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-080,Francisco Villa,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-081,Fuego Nuevo,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-083,Granjas Esmeralda,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-084,Granjas Estrella,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-085,Guadalupe Del Moral,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-086,Heroes De Churubusco,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-087,Insurgentes,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-088,Ixtlahuacan,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-089,Jacarandas,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-091,Jardines De San Lorenzo Tezonco,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-092,Jose Lopez Portillo,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-093,Jose Maria Morelos Y Pavon,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-094,Juan Escutia,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-095,Justo Sierra,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-096,La Era,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-097,La Esperanza,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-098,La Planta,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-099,La Regadera,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-100,Las Peñas,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-101,Leyes De Reforma 1a Seccion,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-102,Leyes De Reforma 2a Seccion,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-103,Leyes De Reforma 3a Seccion,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-104,Lomas De La Estancia,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-105,Lomas De San Lorenzo,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-106,Lomas De Sta Cruz,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-107,Lomas De Zaragoza,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-108,Lomas El Manto,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-109,Lomas Estrella,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-110,Los Angeles,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-111,Los Angeles Apanoaya,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-112,Los Cipreses,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-113,Los Picos,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-114,Miguel De La Madrid Hurtado,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-116,Miravalles,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-117,Mixcoatl,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-118,Monte Alban,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-119,Nueva Rosita,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-120,Palmitas,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-121,Paraje San Juan,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-122,Paraje San Juan Cerro,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-123,Paraje Zacatepec,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-124,Parque Nacional Cerro De La Estrella,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-125,Paseos De Churubusco,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-126,Plan De Iguala,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-127,Polvorilla,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-128,Presidentes De Mexico,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-129,Progresista,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-130,Progreso Del Sur,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-132,Pueblo Culhuacan,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-135,Pueblo Mexicaltzingo,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-136,Pueblo San Andres Tomatlan,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-137,Pueblo San Juanico Nextipac,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-138,Pueblo San Lorenzo Tezonco,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-139,Pueblo San Lorenzo Xicotencatl,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-140,Pueblo San Sebastian Tecoloxtitla,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-141,Pueblo Santa Maria Aztahuacan,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-142,Pueblo Santa Maria Tomatlan,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-143,Pueblo Santa Martha Acatitla,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-144,Pueblo Santiago Acahualtepec,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-145,Pueblo Sta Cruz Meyehualco,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-146,Puente Blanco,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-147,Purisima Atlazolpa,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-149,Reforma Politica,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-150,Renovacion,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-151,Ricardo Flores Magon,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-152,San Andres Tetepilco,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-153,San Antonio Culhuacan,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-154,San Jose Aculco,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-155,San Jose Buenavista,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-156,San Juan Estrella,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-157,San Juan Joya,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-158,San Juan Xalpa,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-159,San Miguel 8va Ampliacion,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-160,San Miguel Teotongo (Secc La Cruz),Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-161,San Miguel Teotongo (Secc Las Torres),Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-162,San Miguel Teotongo Secc Acorralado,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-163,San Miguel Teotongo Secc Avisadero,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-164,San Miguel Teotongo Secc Capilla,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-165,San Miguel Teotongo Secc Corrales,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-166,San Miguel Teotongo Secc Guadalupe,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-167,San Miguel Teotongo Secc Jardines,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-168,San Miguel Teotongo Secc Loma Alta,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-169,San Miguel Teotongo Secc Mercedes,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-170,San Miguel Teotongo Secc Palmitas,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-171,San Miguel Teotongo Secc Puente,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-172,San Miguel Teotongo Secc Ranchito,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-173,San Miguel Teotongo Secc Rancho Bajo,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-174,San Miguel Teotongo Seccion Iztlahuaca,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-175,San Nicolas Tolentino,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-176,San Pablo,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-177,Santa Isabel Industrial,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-178,Santa Maria Aztahuacan,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-179,Santa Maria Del Monte,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-180,Santa Martha Acatitla Norte,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-181,Santa Martha Acatitla Sur,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-182,Santiago Acahualtepec 1a Ampliaciën,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-183,Santiago Acahualtepec 2a Ampliacion,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-184,Sector Popular,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-185,Sideral,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-186,Sinatel,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-187,Tenorios,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-190,Unidad Modelo,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-191,Unidad Santa Cruz Meyehualco,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-192,Unidad Vicente Guerrero,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-193,Uscovi,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-194,Valle De Luces,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-195,Valle De San Lorenzo,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-196,Valle Del Sur,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-197,Xalpa,Colonia,,,,,,,,,
+09,Ciudad de México,007,Iztapalapa,007-198,Zacahuitzco,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-001,Ampliacion Lomas De San Bernabe,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-002,Ampliacion Potrerillo,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-003,Atacaxco,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-004,Barranca Seca,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-005,Barrio Las Calles,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-006,Barrio San Francisco,Pueblos y Barrios Originarios,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-007,Barros Sierra,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-008,Cerro Del Judio - Av,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-009,Crescencio Juarez Chavira,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-010,Cuauhtemoc,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-011,El Ermitaño,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-012,El Maestro,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-013,El Ocotal,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-014,El Rosal,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-015,El Tanque,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-016,El Toro,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-017,Heroes De Padierna,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-018,Huayatla,Colonia,,,,,,,,,
+09,Ciudad de México,008,La Magdalena Contreras,008-019,La Carbonera,Colonia,,,,,,,,,
