@@ -20,13 +20,13 @@ DataChallenge-Airbnb-CDMX
 
 │  \
 ├── data  \
-│ └── clean  \
-│ └── airbnb_cdmx_clean.csv  \
+│ └── Bases CLEAN  \
+│ └── Bases RAW  \
 │  \
 ├── scripts  \
-│ ├── 01_cleaning.R   \
-│ ├── 02_analysis.R    \
-│ └── 03_graphics.R    \
+│ ├── Liliana Vargas   \
+│ ├── Alexis Capdevielle   \
+│ └── Aldo Muller    \
 │  \
 ├── outputs  \
 │ ├── figures  \
@@ -82,7 +82,7 @@ DataChallenge-Airbnb-CDMX
 - Buscó y procesó la **base externa de crimen** a nivel colonia para incorporarla en el modelo.  
 - Estimó el **indicador de ingreso potencial por colonia** usado en el ranking final.  
 - Contribuyó al **5-pager**, principalmente en la interpretación y motivación del indicador de rendimiento.  
-- Generó el **mapa de calor de la ciudad**, mostrando las colonias con mayor potencial.
+- Generó los **mapas de calor de la ciudad**, mostrando las colonias con mayor potencial.
 
 ---
 
