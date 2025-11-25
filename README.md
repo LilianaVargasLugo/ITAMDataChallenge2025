@@ -33,28 +33,8 @@ DataChallenge-Airbnb-CDMX
 │  \
 └── README.md
 
----
 
-## 2. Descripción de carpetas
-
-### **`data/`**
-- `clean/`: datos procesados y listos para análisis (por ejemplo `airbnb_cdmx_clean.csv`).
-
-### **`scripts/`**
-- `01_cleaning.R`: procesamiento, merges, creación de variables y limpieza general.  
-- `02_analysis.R`: regresiones hedónicas OLS, tablas, descritivos.  
-- `03_graphics.R`: mapas, distribuciones y gráficas finales para el informe.
-
-### **`outputs/`**
-- `figures/`: todas las gráficas incluidas en el PDF.  
-- `tables/`: tablas exportadas si corresponde.
-
-### **`report/`**
-- `DataChallenge_2025.pdf`: documento final del reto.
-
----
-
-## 3. Contribución de cada integrante
+## 2. Contribución de cada integrante
 
 ### **Alexis Capdevielle Harrison**
 - Realizó la **búsqueda de bibliografía** (papers académicos) para fundamentar la estrategia econométrica.
@@ -87,7 +67,7 @@ DataChallenge-Airbnb-CDMX
 - Encontró un par de artículos académicos para la revisión de literatura.
 ---
 
-## 4. Uso de herramientas de IA
+## 3. Uso de herramientas de IA
 
 El equipo utilizó herramientas de IA generativa exclusivamente para:
 
@@ -102,7 +82,7 @@ Todos los análisis, datos, modelos, cálculos, gráficos y decisiones metodoló
 
 ---
 
-## 5. Referencias
+## 4. Referencias
 
 López Tamayo, Diego Alberto y Aurora A. Ramírez-Álvarez (2021)
 *Análisis de Precios Hedónicos para AIRBNB en la CDMX*
