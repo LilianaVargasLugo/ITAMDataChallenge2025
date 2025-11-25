@@ -28,10 +28,6 @@ DataChallenge-Airbnb-CDMX
 │ ├── Alexis Capdevielle   \
 │ └── Aldo Muller    \
 │  \
-├── outputs  \
-│ ├── figures  \
-│ └── tables  \
-│  \
 ├── report  \
 │ └── DataChallenge_2025.pdf  \
 │  \
